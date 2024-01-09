@@ -7,6 +7,6 @@ export default [
     {
         name: "screen",
         type: "videoTexture",
-        path: "/textures/dashboard_-_10847 (540p).mp4",
+        path: "public/textures/dashboard_-_10847 (540p).mp4",
     },
 ];
