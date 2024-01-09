@@ -7,6 +7,6 @@ export default [
     {
         name: "screen",
         type: "videoTexture",
-        path: "abigail-bloom-portolio-bokoko33-master/textures/dashboard_-_10847 (540p).mp4",
+        path: "/textures/dashboard_-_10847 (540p).mp4",
     },
 ];
